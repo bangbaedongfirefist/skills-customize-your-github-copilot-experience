@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-based-task-manager",
+      "title": "File-Based Task Manager",
+      "description": "Build a command-line task manager with JSON file storage, error handling, and unit tests using only the Python standard library.",
+      "path": "assignments/file-based-task-manager",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
